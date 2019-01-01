@@ -1,7 +1,7 @@
 # Title: ATM App
 
-### Type:
-- Lab
+### Live demo:
+- https://jing1107.github.io/GA-BANK/
 
 ### Summary
 - This lab will help you practice JavaScript functions and manipulating the DOM with jQuery.
