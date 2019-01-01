@@ -3,10 +3,6 @@
 ### Live demo:
 - https://jing1107.github.io/GA-BANK/
 
-### Summary
-- This lab will help you practice JavaScript functions and manipulating the DOM with jQuery.
-- You'll be selecting elements, manipulating HTML, and manipulating style along
-with building out the logic using JavaScript.
 
 ### Objectives:
 - DOM selection, appending, removal, updating
